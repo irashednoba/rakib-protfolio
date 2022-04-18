@@ -1,0 +1,149 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.special{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.top-banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+p{
+    color: gray;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #ffc153,#eb6b56,orange);
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: 700;
+    color: white;
+}
+h2{
+    font-size: 40px;
+}
+.dream-area{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.single-experience{
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 5px;
+    width: 25%;
+    height: 80%;
+    background-color: white;
+}
+.experiences-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-top: 150px;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,#38adae,#cd295a);
+    border-image-slice: 1;
+}
+#stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,#053545,#179bb0,#86cdd9);
+    border-image-slice: 1;
+}
+#language{
+    height: 80%;
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,#99bcc4,#08535d,#02333c);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    font-size: 10px;
+}
+.icon{
+    background-color: white;
+    margin-top: 100px;
+}
+.ml{
+    color: gray;
+    transition: 0.2s;
+    margin-left: 10px;
+    font-size: 30px;
+    
+}
+.ml:hover{
+    color:#bb001b;
+}
+
+.fb{
+    color: gray;
+    transition: 0.2s;
+    margin-left: 10px;
+    font-size: 30px;
+    
+}
+.fb:hover{
+    color: blue;
+}
+.tw{
+    color: gray;
+    transition: 0,2s;
+    margin-left: 10px;
+    font-size: 30px;
+}
+.tw:hover{
+    color: rgb(73, 70, 70);
+}
+.ln{
+    color: gray;
+    transition: 0,2s;
+    margin-left: 10px;
+    font-size: 30px;
+}
+.ln:hover{
+    color: #0e76a8;
+}
+.be{
+    color: gray;
+    transition: 0,2s;
+    margin-left: 10px;
+    font-size: 30px;
+}
+.be:hover{
+    color: #053eff;
+}
+.wp{
+    color: gray;
+    transition: 0,2s;
+    margin-left: 10px;
+    font-size: 30px;
+}
+.wp:hover{
+    color: #21759b;
+}
+.gb{
+    color: gray;
+    transition: 0,2s;
+    margin-left: 10px;
+    font-size: 30px;
+}
+.gb:hover{
+    color: #08535d;
+}
